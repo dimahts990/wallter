@@ -1,5 +1,6 @@
 # wallter
 Все примеры с переменной int coin
+0. Подключаем библиотеку using DLLtest;
 1. Обнуление Валюты: coin=wallter.zero;
 2. Инкрементирование валюты: coin=wallet.ink(coin);
 3. Сохранение валюты через PlayerPrefs: wallter.SavePP("coin",coin);
